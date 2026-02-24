@@ -29,7 +29,7 @@ export const ColorPalette = () => {
                 <span className={`p-1.5 rounded-lg transition-colors ${theme.transBg} ${theme.pText}`}>
                     <Palette size={20} />
                 </span>
-                Galería de Gradientes
+                Galería de Mexicanos
             </h2>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-6">
